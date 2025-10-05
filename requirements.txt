@@ -1,0 +1,11 @@
+gradio
+torch
+torchvision
+transformers
+opencv-python
+numpy
+pandas
+requests
+python-dotenv
+#facenet-pytorch 
+#ffmpeg-python
