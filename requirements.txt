@@ -3,9 +3,5 @@ torch
 torchvision
 transformers
 opencv-python
+pillow
 numpy
-pandas
-requests
-python-dotenv
-#facenet-pytorch 
-#ffmpeg-python
